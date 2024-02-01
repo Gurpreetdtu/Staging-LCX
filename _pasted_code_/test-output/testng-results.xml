@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T12:10:07 IST" name="Default suite" finished-at="2023-07-24T12:10:07 IST" duration-ms="140">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T12:10:07 IST" name="Default test" finished-at="2023-07-24T12:10:07 IST" duration-ms="140">
+      <class name="TestCases_DataProvider.TestCases">
+        <test-method signature="entercredentionals(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="entercredentionals" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9894588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entercredentionals -->
+        <test-method signature="entercredentionals(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="entercredentionals" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9899388]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entercredentionals -->
+        <test-method signature="entercredentionals(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="entercredentionals" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest2@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9893588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entercredentionals -->
+        <test-method signature="launchurl(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="launchurl" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9894588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="launchurl(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="launchurl" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9899388]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="launchurl(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="launchurl" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest2@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9893588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="logout(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="logout" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9894588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="logout(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="logout" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9899388]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="logout(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="logout" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest2@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9893588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="validateLoginPage(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="validateLoginPage" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9894588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPage -->
+        <test-method signature="validateLoginPage(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="validateLoginPage" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9899388]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPage -->
+        <test-method signature="validateLoginPage(java.lang.String,int,java.lang.String,int)[pri:0, instance:TestCases_DataProvider.TestCases@524d6d96]" started-at="2023-07-24T12:10:07 IST" name="validateLoginPage" data-provider="getData" finished-at="2023-07-24T12:10:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Emailtest2@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9893588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPage -->
+      </class> <!-- TestCases_DataProvider.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
